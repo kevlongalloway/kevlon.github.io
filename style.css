@@ -71,11 +71,13 @@ label{
 .section-3{
 	background-color: #5ab9ea;
 	margin:0;
-	height:100vh;
+
+
 }
 .section-title{
 	padding-top:.5em;
-	margin-bottom:1em;
+	font-weight: 600;
+
 }
 .card-item{
 	 margin: 0 auto; /* Added */
@@ -131,15 +133,13 @@ label{
 		margin:3em 0;
 	}
 	.section-3{
-		height:60vh;
+
 	}
 
 	.col-sm{
 		text-align: center;
 	}
-	.section-title{
-		text-align: center;
-	}
+	
 
 	
 }
@@ -151,7 +151,7 @@ label{
 	font-size: 3.5rem;
 }
 	.section-3{
-		height:55vh;
+		
 	}
 .parallax-window-1 h1{
 	font-size: 4em;
