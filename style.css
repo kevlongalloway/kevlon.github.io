@@ -75,7 +75,6 @@ label{
 
 }
 .section-title{
-	padding-top:.5em;
 	font-weight: 600;
 
 }
@@ -92,12 +91,15 @@ label{
 	font-size: 1.5em;
 	color:#fff;
 }
+.center-align{
+	text-align: center;
+}
 
-.col-sm ul li{
+	.center-align ul li{
 		list-style: none;
 		display: block;
 	}
-	.col-sm ul{
+	.center-align ul{
 		padding:unset;
 
 	}
@@ -136,7 +138,7 @@ label{
 
 	}
 
-	.col-sm{
+	.center-align{
 		text-align: center;
 	}
 	
@@ -151,7 +153,7 @@ label{
 	font-size: 3.5rem;
 }
 	.section-3{
-		
+		padding: 3em 0 3em 0;
 	}
 .parallax-window-1 h1{
 	font-size: 4em;
