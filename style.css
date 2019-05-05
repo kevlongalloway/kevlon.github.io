@@ -76,7 +76,7 @@ label{
 }
 .section-title{
 	font-weight: 600;
-
+	margin-bottom: 1em;
 }
 .card-item{
 	 margin: 0 auto; /* Added */
@@ -119,6 +119,10 @@ label{
 	.contact-form{
 		padding:0;
 		width:100%;
+	}
+	.contact-form-section{
+		padding:2em 0 2em 0;
+
 	}
 	.contant-info{
 		padding-left:2em;
